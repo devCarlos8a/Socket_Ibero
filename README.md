@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Socket_Ibero
 Actividad de Arquitectura de Software
 =======
@@ -39,4 +38,3 @@ Una vez validado el usuario, con el metodo send. El servidor informará al usuar
 - Diego Alejandro Cuartas Duque
 - Juan José Cardona Ramírez
 - Carlos de Jesús Ochoa Jiménez
->>>>>>> master
